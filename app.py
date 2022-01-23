@@ -7,6 +7,6 @@ def max_num(num1, num2, num3):
         return num3
 
 
-result = max_num(1, 5, 9)
+result = max_num(1, 5, 2)
 
 print(result)
